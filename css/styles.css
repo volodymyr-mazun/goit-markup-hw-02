@@ -149,6 +149,7 @@ a {
 .team-list {
 }
 .team-item {
+    background-color: #FFFFFF;
 }
 .team-img {
 }
@@ -176,6 +177,7 @@ a {
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
+    text-transform: capitalize;
     color: #2e2f42;
 }
 
